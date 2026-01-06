@@ -2,7 +2,7 @@
   "name": "cordoba-sunset",
   "displayName": "Cordoba Sunset",
   "publisher": "AgusPeiretti",
-  "version": "0.1.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tuusuario/cordoba-sunset"
+    "url": "https://github.com/aguspeiretti/cordobaSunset-theme.git"
   },
   "license": "MIT",
   "icon": "icon.png",
