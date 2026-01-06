@@ -1,0 +1,37 @@
+{
+  "name": "cordoba-sunset",
+  "displayName": "Cordoba Sunset",
+  "publisher": "AgusPeiretti",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "description": "Dark theme inspirado en Córdoba: carbón + peach con acentos sage/salmon/red. Incluye versión High Contrast.",
+  "galleryBanner": {
+    "color": "#2A363B",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tuusuario/cordoba-sunset"
+  },
+  "license": "MIT",
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cordoba Sunset",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cordoba Sunset-color-theme.json"
+      },
+      {
+        "label": "Cordoba Sunset (High Contrast)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cordoba Sunset High Contrast-color-theme.json"
+      }
+    ]
+  }
+}
